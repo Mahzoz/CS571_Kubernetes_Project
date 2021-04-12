@@ -1,5 +1,5 @@
 var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb://34.83.103.177:27017/mydb"
+var url = "mongodb://35.197.58.159:27017/mydb"
 // Connect to the db
 
 
