@@ -4,5 +4,5 @@ metadata:
   name: studentserver-config
 data:
   # SERVICE_NAME.NAMESPACE.svc.cluster.local:SERVICE_PORT
-  MONGO_URL: 34.83.103.177  
+  MONGO_URL: 35.197.58.159  
   MONGO_DATABASE: mydb
