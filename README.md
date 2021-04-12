@@ -22,7 +22,7 @@ ConfigMaps           | to store MongoDB service address, in case MongoDB is down
 
 <details>
 <summary>Below is the Google slides with more details of the project</summary>
-<a href=""> Slides</a>
+<a href="https://docs.google.com/presentation/d/1fyoTPLgDXiDtpY72hKiz4bkil9VRTSMallwC9wDsX74/edit#slide=id.p"> Slides</a>
 </details>
 
 #### Sample Output ####
