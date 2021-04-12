@@ -15,7 +15,7 @@ spec:
         app: bookshelf-deployment
     spec:
       containers:
-        - image: zhou19539/bookshelf    
+        - image: mahzoz19560/bookshelf    
           imagePullPolicy: Always
           name: bookshelf-deployment
           ports:
