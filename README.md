@@ -17,12 +17,12 @@ ConfigMaps           | to store MongoDB service address, in case MongoDB is down
 #### How to run ####
 <details>
 <summary>Below is the document with detailed instruction</summary>
-<a href="https://github.com/Quan25/kubernetes_project/blob/master/CS571_Signature_Project_Quan_Zhou.pdf"> document</a>
+<a href=""> document</a>
 </details>
 
 <details>
 <summary>Below is the Google slides with more details of the project</summary>
-<a href="https://docs.google.com/presentation/d/1HY--OKdWyqeGGbCu86WIvN3IR5lk0gwg-ZBnwmgcpCM/present?slide=id.p"> Slides</a>
+<a href=""> Slides</a>
 </details>
 
 #### Sample Output ####
@@ -31,22 +31,16 @@ ConfigMaps           | to store MongoDB service address, in case MongoDB is down
 ```
 curl cs571.project.com/studentserver/api/score?student_id=11111
 ```
-![picture alt](https://github.com/Quan25/kubernetes_project/blob/master/output/proj_1.png)
-
 
 - List all the books
 ```
 curl cs571.project.com/bookshelf/books
 ```
-![picture alt](https://github.com/Quan25/kubernetes_project/blob/master/output/proj_2.png)
 
 - Add a book
 ```
 curl -X POST -d "{\"book_name\": \"cloud computing\",\"book_author\": \"unkown\", \"isbn\": \"123456\" }" http://cs571.project.com/bookshelf/book
 ```
-
-![picture alt](https://github.com/Quan25/kubernetes_project/blob/master/output/proj_3.png)
-![picture alt](https://github.com/Quan25/kubernetes_project/blob/master/output/proj_4.png)
 
 
 - Update a book
