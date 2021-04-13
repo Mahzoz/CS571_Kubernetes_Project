@@ -17,7 +17,7 @@ ConfigMaps           | to store MongoDB service address, in case MongoDB is down
 #### How to run ####
 <details>
 <summary>Below is the document with detailed instruction</summary>
-<a href=""> document</a>
+<a href="https://github.com/Mahzoz/CS571_Kubernetes_Project/blob/Master/CS571-Week12-Singature_Project_19560_Farishta.pdf"> document</a>
 </details>
 
 <details>
